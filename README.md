@@ -1,4 +1,5 @@
 
+
 import requests# Used to make API calls
 def fetch_data(url):
     try:

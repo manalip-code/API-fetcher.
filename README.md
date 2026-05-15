@@ -81,7 +81,8 @@ def main():
             display_users(data, limit)
 
     elif choice == "2":
-        url = "https://jsonplaceholder.typicode.com/posts"
+        url = 
+    "https://jsonplaceholder.typicode.com/posts"
         data = fetch_data(url)
 
     if data:
